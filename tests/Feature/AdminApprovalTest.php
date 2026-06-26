@@ -3,7 +3,7 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
-use App\Contract\AdminApprovalContract;
+use App\Contracts\AdminApprovalContract;
 use PHPUnit\Framework\MockObject\MockObject;
 
 class AdminApprovalTest extends TestCase
