@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use App\Contract\AdminApprovalContract;
+use App\Contracts\AdminApprovalContract;
 
 class AdminApprovalService implements AdminApprovalContract
 {
