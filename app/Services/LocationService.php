@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use App\Contract\LocationContract;
+use App\Contracts\LocationContract;
 
 class LocationService implements LocationContract
 {
